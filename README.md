@@ -9,9 +9,8 @@ I'm **Gokul Saminathan**, Test Automation Engineer, specializing in diverse test
 - **UI Testing:** Selenium, Selenide
 - **API Testing:** RestAssured, Postman
 - **Frameworks:** TestNG, Cucumber
-- **Code Management:** Git, GitHub, Gitlab
+- **DevOps:** Git, GitHub, Gitlab, Jenkins, Docker
 - **Defect Management:** Azure DevOps, JIRA
-- **CI/CD:** Jenkins
 - **Programming Language:** Java
 
 👩‍💻 **What do I do?**
