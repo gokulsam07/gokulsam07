@@ -8,7 +8,7 @@ I'm **Gokul Saminathan**, Test Automation Engineer, specializing in diverse test
 
 - **UI Testing:** Selenium, Selenide, Playwright
 - **API Testing:** RestAssured, Postman
-- **Frameworks:** TestNG, Cucumber
+- **Frameworks:** JUnit5, TestNG, Cucumber
 - **DevOps:** Git, GitHub, Gitlab, Jenkins, Docker
 - **Programming Language:** Java, TypeScript
 
