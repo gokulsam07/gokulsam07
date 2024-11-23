@@ -6,7 +6,7 @@ I'm **Gokul Saminathan**, Test Automation Engineer, specializing in diverse test
 
 🛠️ **What do I work with?**
 
-- **UI Testing:** Selenium, Selenide, Playwright
+- **UI Testing:** Selenium, Selenide, Playwright, Appium
 - **API Testing:** RestAssured, Postman
 - **Frameworks:** JUnit5, TestNG, Cucumber
 - **DevOps:** Git, GitHub, Gitlab, Jenkins, Docker
